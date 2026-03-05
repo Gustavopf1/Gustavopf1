@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Meu nome é Gustavo Pires, tenho 21 anos e sou natural de Sousa, Paraíba. Concluí o Ensino Médio e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB. Estou focado em construir uma base sólida em programação, com grande interesse em atuar na área de desenvolvimento.
+Meu nome é Gustavo Pires, tenho 21 anos e sou natural de Sousa, Paraíba. Concluí o Ensino Médio e, atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPB-Campus Cajazeiras. Estou focado em construir uma base sólida em programação, com grande interesse em atuar na área de desenvolvimento.
 
 ---
 
@@ -28,7 +28,7 @@ Meu nome é Gustavo Pires, tenho 21 anos e sou natural de Sousa, Paraíba. Concl
     align="left" 
     alt="C" 
     title="C" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" 
 />
