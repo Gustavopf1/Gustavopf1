@@ -30,7 +30,7 @@ Meu nome é Gustavo Pires, tenho 21 anos e sou natural de Sousa, Paraíba. Concl
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"
+    src="https://raw.githubusercontent.com/isaac-carmo/readme-templates/main/icons/c.svg" width="40" height="40" alt="Linguagem C"
 />
 <img 
     align="left" 
