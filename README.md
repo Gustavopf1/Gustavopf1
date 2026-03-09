@@ -7,6 +7,8 @@ Meu nome é Gustavo Pires, tenho 21 anos e sou natural de Sousa, Paraíba. Concl
 ---
 
 ### Linguagens e Tecnologias
+
+
 <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
 <img 
     align="left" 
