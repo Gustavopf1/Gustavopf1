@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Meu nome é Gustavo Pires, tenho 22 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IFPB — Cajazeiras. Busco evoluir constantemente e crescer na minha carreira na área da tecnologia. Cada projeto aqui representa um passo na minha jornada.
+Meu nome é Gustavo Pires, tenho 22 anos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IF Sertão - Cajazeiras. Busco evoluir constantemente e crescer na minha carreira na área da tecnologia. Cada projeto aqui representa um passo na minha jornada.
 
 ---
 
